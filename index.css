@@ -1,9 +1,10 @@
 #calculadora{
     width: 40rem;
     height: 70rem;
-    border : 1px solid black;
-
+    border : 9px solid rgb(228, 158, 158);
+    border-radius: 1rem;
     margin: auto;
+    background-color: rgb(184, 147, 159);
     margin-top: 10rem;
 
 }
